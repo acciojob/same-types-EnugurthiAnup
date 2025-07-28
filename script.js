@@ -1,5 +1,5 @@
 // 
-// function isSameType(value1, value2) {
+function isSameType(value1, value2) {
   // Check if both are NaN
   value1 = Number(value1);
  value2 = Number(value2);
