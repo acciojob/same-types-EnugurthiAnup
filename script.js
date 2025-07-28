@@ -1,4 +1,4 @@
-// 
+
 function isSameType(value1, value2) {
   if (value1.trim() === '' && value2.trim() === '') return true;
 
